@@ -1,0 +1,45 @@
+
+.bg-image{
+	background-image: url(images/bg.jpeg);
+	height: 400px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 0 -80px;
+}
+
+.logo_desafio{
+	width: 90%;
+	padding-top: 20%;
+	float: left;
+}
+
+nav ul li{
+	display:inline-block;
+	color:#cccccc;
+	float: right;
+	padding-top: 5%;
+	padding-right: 30px;
+}
+
+nav{
+	margin-right: 70px;
+}
+.clearfix{
+	clear:both;
+}
+
+.primerh1{
+	margin-top: 50px;
+	color: white;
+	text-align: center;
+}
+
+.boton_azul{
+	background-color:  #0066ff;
+	display: inline-block;
+	
+	border-radius: 5px;
+	color:white;
+}
+
+	
